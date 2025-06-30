@@ -15,7 +15,10 @@ This project is a lightweight **Speech Recognition System** that listens to spok
 - **SpeechRecognitio** – for processing microphone input
 - **PyAudio** – to capture real-time audio    
 
-## 📂 Project Structure
+## Install Dependencies
+
+- pip install vosk
+- pip install pyaudio
 
 ## 💡 Use Cases
 
@@ -27,7 +30,6 @@ This project is a lightweight **Speech Recognition System** that listens to spok
 ## 📌 Notes
 
 - Requires a working microphone.
-- Internet connection needed if using APIs like Google Speech Recognition.
 - Accuracy may vary depending on background noise and pronunciation.
 
 ## 🙌 Acknowledgments
